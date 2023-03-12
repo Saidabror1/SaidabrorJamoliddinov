@@ -3,7 +3,7 @@
 
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-SaidabrorJ-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SaidabrorJ) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jamoliddinov010@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-SaidabrorJ-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SaidabrorJ) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jamoliddinov010@gmail.com)
 
 ---
 
